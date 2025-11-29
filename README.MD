@@ -23,16 +23,9 @@
 
 ### 📈 GitHub Stats
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=thisal-d&show_icons=true&theme=github_dark&border_color=30363d" 
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=thisal-d&show_icons=true&theme=github_light" 
-    media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=thisal-d&show_icons=true" alt="Thisal D's GitHub stats" />
-</picture>
+[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisal-d&show_icons=true&theme=github_dark&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8&border_color=30363d)](https://github.com/thisal-d/github-readme-stats#gh-dark-mode-only)
 
+[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisal-d&show_icons=true&theme=github_light&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/thisal-d/github-readme-stats#gh-light-mode-only)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisal-d&theme=github_dark&include_all_commits=true&count_private=false&layout=compact&border_color=30363d)](https://github.com/thisal-d/github-readme-stats#gh-dark-mode-only)
 
