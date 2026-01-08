@@ -47,7 +47,7 @@
 <a href="https://github.com/thisal-d#gh-dark-mode-only">
 <div align="center">
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github_dark" alt="Stats Summary" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github_dark" alt="Productive Time" />
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github_dark" alt="Productive Time" />
 </div>
 
 <div align="center">
