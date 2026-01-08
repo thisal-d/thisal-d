@@ -48,10 +48,10 @@
 <div align="center">
   <div style="display: flex; flex-direction: row;">
     <div style="width: 50%;">
-    <img width="100.0%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github_dark" alt="Stats Summary" />
+    <img width="50.0%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github_dark" alt="Stats Summary" />
     </div>
     <div style="width: 50%;">
-    <img width="100.0%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github_dark" alt="Productive Time" />
+    <img width="50.0%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github_dark" alt="Productive Time" />
     </div>
   </div>
 </div>
