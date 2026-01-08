@@ -44,22 +44,10 @@
 
 <div align="center">
 
-
-<div align="center" style="display: flex; justify-content: center; gap: 6px; flex-wrap: wrap;">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github_dark" alt="Stats Summary" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github_dark" alt="Most Commit Language" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisal-d&theme=github_dark" alt="Profile Details" />
-</div>
-
-
 <a href="https://github.com/thisal-d#gh-dark-mode-only">
-<div align="center">
-  <img width="45.0%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github_dark" alt="Stats Summary" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="45.0%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github_dark" alt="Productive Time" />
+<div align="center" style="display: flex; justify-content: center; gap: 6px; flex-wrap: wrap;">
+  <img width="49.0%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github_dark" alt="Stats Summary" />
+  <img width="49.0%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github_dark" alt="Productive Time" />
 </div>
 
 <div align="center">
@@ -68,12 +56,12 @@
 </a>
 
 <a href="https://github.com/thisal-d#gh-light-mode-only">
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 6px; flex-wrap: wrap;">
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github" alt="Stats Summary" />
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github" alt="Productive Time" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisal-d&theme=github" alt="Profile Details" />
 </div>
 </a>
