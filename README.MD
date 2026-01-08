@@ -28,7 +28,6 @@
 
 ### 🖥️ Open-Source Projects
 
-
 | Title | Description | Stats | Technologies |
 |-------|------------|-------|-------------|
 | 💻 [**PyTube Downloader**](https://github.com/thisal-d/pytube-downloader/) | UI application to download YouTube videos and playlists. | [![star dark](https://img.shields.io/github/stars/thisal-d/pytube-downloader?style=flat&labelColor=404040)](https://github.com/thisal-d#gh-dark-mode-only) [![star light](https://img.shields.io/github/stars/thisal-d/pytube-downloader?style=flat&labelColor=ffffff)](https://github.com/thisal-d#gh-light-mode-only) <br> [![fork dark](https://img.shields.io/github/forks/thisal-d/pytube-downloader?style=flat&labelColor=404040)](https://github.com/thisal-d#gh-dark-mode-only) [![fork light](https://img.shields.io/github/forks/thisal-d/pytube-downloader?style=flat&labelColor=ffffff)](https://github.com/thisal-d#gh-light-mode-only) | <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="20px" height="20px"> |
@@ -36,52 +35,25 @@
 | 📊 [**ctkchart**](https://github.com/thisal-d/ctkchart/) | Python library for creating live updating line charts in Customtkinter GUIs. | [![star dark](https://img.shields.io/github/stars/thisal-d/ctkchart?style=flat&labelColor=404040)](https://github.com/thisal-d#gh-dark-mode-only) [![star light](https://img.shields.io/github/stars/thisal-d/ctkchart?style=flat&labelColor=ffffff)](https://github.com/thisal-d#gh-light-mode-only) <br> [![fork dark](https://img.shields.io/github/forks/thisal-d/ctkchart?style=flat&labelColor=404040)](https://github.com/thisal-d#gh-dark-mode-only) [![fork light](https://img.shields.io/github/forks/thisal-d/ctkchart?style=flat&labelColor=ffffff)](https://github.com/thisal-d#gh-light-mode-only) | <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="20px" height="20px"> |
 | 📱 [**IP Wizard**](https://github.com/thisal-d/ip-wizard/) | App to calculate subnet masks and IP ranges on Android. | [![star dark](https://img.shields.io/github/stars/thisal-d/ip-wizard?style=flat&labelColor=404040)](https://github.com/thisal-d#gh-dark-mode-only) [![star light](https://img.shields.io/github/stars/thisal-d/ip-wizard?style=flat&labelColor=ffffff)](https://github.com/thisal-d#gh-light-mode-only) <br> [![fork dark](https://img.shields.io/github/forks/thisal-d/ip-wizard?style=flat&labelColor=404040)](https://github.com/thisal-d#gh-dark-mode-only) [![fork light](https://img.shields.io/github/forks/thisal-d/ip-wizard?style=flat&labelColor=ffffff)](https://github.com/thisal-d#gh-light-mode-only) | <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="30px" height="30px"> |
 
-
-
-
 ---
----
+
 ### 📊 GitHub Statistics
 
 <div align="center">
-
-<!-- 🌙 Dark Mode -->
-<a href="https://github.com/thisal-d#gh-dark-mode-only"></a>
-<div align="center" style="display: flex; justify-content: center; gap: 6px; flex-wrap: wrap;">
-  <a href="https://github.com/thisal-d">
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github_dark" alt="Stats Summary" />
-  </a>
-  <a href="https://github.com/thisal-d">
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github_dark" alt="Most Commit Language" />
-  </a>
+  <picture> 
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github_dark"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github"> 
+  </picture>
+  <picture> 
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github_dark"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github"> 
+  </picture> 
+  
+  <picture> 
+  <source width="98%" media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisal-d&theme=github_dark"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisal-d&theme=github"> 
+  </picture> 
 </div>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/thisal-d">
-    <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisal-d&theme=github_dark" alt="Profile Details" />
-  </a>
-</div>
-
-<!-- ☀️ Light Mode -->
-<a href="https://github.com/thisal-d#gh-light-mode-only"></a>
-<div align="center" style="display: flex; justify-content: center; gap: 6px; flex-wrap: wrap;">
-  <a href="https://github.com/thisal-d">
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github" alt="Stats Summary" />
-  </a>
-  <a href="https://github.com/thisal-d">
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github" alt="Most Commit Language" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/thisal-d">
-    <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisal-d&theme=github" alt="Profile Details" />
-  </a>
-</div>
-
-</div>
-
-
 
 ---
 
