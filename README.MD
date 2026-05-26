@@ -16,9 +16,9 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite,cpp,c,dart,js,react,stackoverflow&theme=light)](https://github.com/thisal-d#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite,cpp,c,dart,js,mongodb,express,react,nodejs,stackoverflow&theme=light)](https://github.com/thisal-d#gh-light-mode-only)
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite,cpp,c,dart,js,react,stackoverflow&theme=dark)](https://github.com/thisal-d#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite,cpp,c,dart,js,mongodb,express,react,nodejs,stackoverflow&theme=dark)](https://github.com/thisal-d#gh-dark-mode-only)
 
     
 <br>
