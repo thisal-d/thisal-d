@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,A855F7&height=210&section=header&text=Thisal%20Dilmith&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=57&descSize=17&descColor=e0e7ff" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,A855F7&height=210&section=header&text=Thisal%20Dilmith&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Build%20Tools%20That%20Actually%20Matter&descAlignY=57&descSize=17&descColor=e0e7ff" alt="Header"/>
 
 <p align="center">
  <a href="https://thisal-dilmith.pages.dev/" title="Visit my Portfolio" target="_blank">
@@ -10,9 +10,7 @@
     <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white" alt="PyPI"/></a>
 </p>
  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=6366F1&center=true&vCenter=true&random=false&width=720&height=55&lines=Hi+there%2C+I'm+Thisal+Dilmith+%F0%9F%91%8B;Open+Source+Contributor+%E2%9C%A8;Building+tools+that+actually+matter+%F0%9F%94%A7;Let's+build+something+great+together!" alt="Typing SVG"/>
-</p>
+
 
 
 <div align="center">
