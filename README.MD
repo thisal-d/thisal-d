@@ -8,6 +8,8 @@
   <a href="https://github.com/thisal-d?tab=repositories" title="Explore my GitHub repositories" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
    <a href="https://pypi.org/user/Thisal_D/" title="View my PyPI Profile" target="_blank">
     <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white" alt="PyPI"/></a>
+  <a href="https://github.com/sponsors/thisal-d" title="Sponsor my work" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat&logo=github&logoColor=white" alt="Sponsor thisal-d"/></a>
 </p>
  
 
@@ -86,5 +88,10 @@
 
 <br><br>
 <sub>Built with ❤️ by <b>Thisal Dilmith</b></sub>
+
+<a href="https://github.com/sponsors/thisal-d" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor thisal-d"/>
+</a>
+
 
 </div>
