@@ -1,130 +1,157 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thisal-d/thisal-d/main/assets/portrait.svg" alt="Thisal Dilmith, rendered in code" width="100%"/>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=about.me&logoColor=white)](https://thisal-dilmith.pages.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisal-dilmith)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17652621/thisal)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/Thisal_D/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://thisal-d.blogspot.com/)
-[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/thisal-d)
-
-<br/>
-
-### *Code by day, bars by night.*
-**Break it. Fix it. Make it better. Repeat.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-dark.svg">
+  <img src="/assets/ascii-light.svg" alt="Thisal Dilmith, rendered as ASCII art" width="100%">
+</picture>
 
 </div>
 
-<br/>
+<details>
+<summary><code>$ cat portrait.txt</code> &nbsp;(plain-text version, copy and paste anywhere)</summary>
 
-## `$ now`
+```text
+.-[ thisal@thisma-labs: ~ ]----------------------------------------------------------------------.
+| $ ./render --me --verbose                                                                      |
+|                                                                                                |
+|                       .::....                                                                  |
+|                .:-+====..:.  :..====++-=-:                                                     |
+|              -++=:  .. .-  .:... .+=.-:--+-=-.                                                 |
+|           .+*=:.-.      .-==:.=+-:::=+-.=..=*+:                                                |
+|           =++=-==-++-:--==-:          :  - -++:+-       thisal@thisma-labs                     |
+|         .+---... .:..:+*: :::--          :.:. .+- :     ------------------------------------   |
+|        :+ ..  : .-=-+*+=:-:::-:-               .  -.    Name     Thisal Dilmith                |
+|     .::.: :.    .=*-...:...:                    ::.     Handle   thisal-d                      |
+|      ....   .=-.- .--:::-=+:          .         :.:     Role     Developer, Thisma Labs        |
+|         :- .:+. -=  =*#*=:-:. -       :.       ...      From     Sri Lanka                     |
+|          .:..:--:  .=*##*++=+=** .:.   =.               Speaks   Python Dart Java C/C++ JS     |
+|       :        -*#++#******###*+**=-=- -      .:.       Lab      Flutter Rust mDNS TLS1.3      |
+|      .-      =@@@@@@@@@@%%@@@%@%***=+**-      ....:     Ships    pytube-downloader             |
+|   .*##%@#.  :@@@%#**+++-=++**@@@@##%#%*+:                        tkchart ctkchart compylr      |
+|  .@@@@@#%@- *@@%#*+-..         ::=*#%##=-:              Now      shipping Beside v0.1.0        |
+|  .#@@+--+@-.%%%@@@@%%*+--+-. :-+%%:                              (Thisma Labs flagship)        |
+|   .%@%@@#@.=%#%@@@@@@@@%%%@@@@@@@@:                     Loop     break_it(); fix_it();         |
+|     *@@#@*.+%%%%@@@@@@@@@@@@@@@@@@#==.                           make_it_better(); repeat();   |
+|      .*%*+-=*#%%%%@@@@@@@%%%@@@@@@@*#*=.                Vibe     code by day, bars by night    |
+|       .==--++#*#%%@@@@@@@@@+:..+%%+ **=                 Web      thisal-dilmith.pages.dev      |
+|       +%@..******%%%%@@@@@@@%+=    :*:                  Org      github.com/thisma-labs        |
+|   -   %%@+  +++*++*#%#.    .   ..  -:                   Ramp     .:-=+*#%@                     |
+|   .::*%%%%:   -*++*#*- .:--=+-.:                                                               |
+|  =  =+@%%%#-   +#%%@%%%%##+===+=:                                                              |
+| =*. .:=#%%%#+    .-*%@@@@%*.                                                                   |
+| =#+     .+#%##=      .:=+*+**+=                                                                |
+| .=**--+.  .+##*-                                                                               |
+|                                                                                                |
+| $ _                                                                                            |
+'------------------------------------------------------------------------------------------------'
+```
 
-| | |
-|:--|:--|
-| 🔭 **Building** | [**Thisma Labs**](https://github.com/thisma-labs), a software lab for local-first, private tools. First release: [**Beside** `•—◎`](https://github.com/thisma-labs/beside), private Wi-Fi file sharing between Windows and Android. |
-| 🛠️ **Maintaining** | [pytube-downloader](https://github.com/thisal-d/pytube-downloader), [tkchart](https://github.com/thisal-d/tkchart), [ctkchart](https://github.com/thisal-d/ctkchart) |
-| 🧪 **Exploring** | Machine-learning tooling, desktop GUIs, and making Python apps easier to ship |
-| 🎤 **Off the clock** | Writing bars |
-
-## `$ ls projects/`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[pytube-downloader](https://github.com/thisal-d/pytube-downloader)**<br/>
-Simple. Fast. Powerful YouTube downloader for Mac, Windows and Linux.<br/><br/>
-![stars](https://img.shields.io/github/stars/thisal-d/pytube-downloader?style=flat-square&logo=github&labelColor=0a0e14&color=15efe4)
-![forks](https://img.shields.io/github/forks/thisal-d/pytube-downloader?style=flat-square&labelColor=0a0e14&color=a855f7)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**[compylr](https://github.com/thisal-d/compylr)**<br/>
-A modern GUI for turning Python scripts into standalone executables with Nuitka.<br/><br/>
-![stars](https://img.shields.io/github/stars/thisal-d/compylr?style=flat-square&logo=github&labelColor=0a0e14&color=15efe4)
-![forks](https://img.shields.io/github/forks/thisal-d/compylr?style=flat-square&labelColor=0a0e14&color=a855f7)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[tkchart](https://github.com/thisal-d/tkchart)**<br/>
-Live-updating line-chart widget for tkinter.<br/><br/>
-![stars](https://img.shields.io/github/stars/thisal-d/tkchart?style=flat-square&logo=github&labelColor=0a0e14&color=15efe4)
-![forks](https://img.shields.io/github/forks/thisal-d/tkchart?style=flat-square&labelColor=0a0e14&color=a855f7)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**[ctkchart](https://github.com/thisal-d/ctkchart)**<br/>
-The same live line chart for customtkinter, with automatic light and dark themes.<br/><br/>
-![stars](https://img.shields.io/github/stars/thisal-d/ctkchart?style=flat-square&logo=github&labelColor=0a0e14&color=15efe4)
-![forks](https://img.shields.io/github/forks/thisal-d/ctkchart?style=flat-square&labelColor=0a0e14&color=a855f7)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[elimination-search-cv](https://github.com/thisal-d/elimination-search-cv)**<br/>
-scikit-learn compatible hyperparameter search that progressively drops low-scoring values: fewer fits, same best params.<br/><br/>
-![stars](https://img.shields.io/github/stars/thisal-d/elimination-search-cv?style=flat-square&logo=github&labelColor=0a0e14&color=15efe4)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**[ai-verse](https://github.com/thisal-d/ai-verse)**<br/>
-A hub to discover, search and organize AI tools.<br/><br/>
-![stars](https://img.shields.io/github/stars/thisal-d/ai-verse?style=flat-square&logo=github&labelColor=0a0e14&color=15efe4)
-![forks](https://img.shields.io/github/forks/thisal-d/ai-verse?style=flat-square&labelColor=0a0e14&color=a855f7)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-</table>
-
-## `$ cat toolbox.txt`
+</details>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,rust,java,cpp,c,js,react,nodejs,express&theme=dark" alt="languages and frameworks"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,mysql,sqlite,mongodb,stackoverflow&theme=dark" alt="tools and databases"/>
+<i><b>Code by day, bars by night. Break it, fix it, make it better, repeat. Stay real, stay coding!</b></i>
 
 </div>
 
-## `$ git log --stats`
+---
+
+### 🚀 What I'm Up To
+
+```text
+[building]     Thisma Labs : local-first, private software
+[flagship]     Beside      : private Wi-Fi file sharing, Windows <-> Android
+[maintaining]  pytube-downloader . tkchart . ctkchart
+[also]         compylr . elimination-search-cv . ai-verse . ip-wizard
+[status]       focusing
+```
+
+- **[Thisma Labs](https://github.com/thisma-labs)**: my software lab, built around local-first tools with no accounts and no cloud in the middle.
+- **[Beside](https://github.com/thisma-labs/beside)** `•—◎`: Thisma Labs' first release (v0.1.0). Direct file, folder and text sharing between Windows and Android over your own Wi-Fi, with mutual TLS 1.3.
+
+---
+
+### 🔧 Technologies & Tools
 
 <div align="center">
 
-<img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=tokyonight" alt="stats"/>
-<img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=tokyonight" alt="top languages"/>
-<img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisal-d&theme=tokyonight" alt="profile details"/>
+![Skills dark](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite&theme=dark#gh-dark-mode-only)![Skills light](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite&theme=light#gh-light-mode-only)
+<br>
+![Skills dark](https://skillicons.dev/icons?i=cpp,c,dart,js,mongodb,express,react,nodejs,stackoverflow&theme=dark#gh-dark-mode-only)![Skills light](https://skillicons.dev/icons?i=cpp,c,dart,js,mongodb,express,react,nodejs,stackoverflow&theme=light#gh-light-mode-only)
+
+<em>Just trying to be better every day...</em>
 
 </div>
 
-## `$ ./connect`
+---
+
+### 🖥️ Open-Source Projects
+
+| Title | Description | Stats | Technologies |
+|-------|-------------|-------|--------------|
+| 💻 [**PyTube Downloader**](https://github.com/thisal-d/pytube-downloader/) | A user-friendly desktop application designed to save YouTube content locally. It supports downloading both individual videos and complete playlists for offline viewing. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/thisal-d/pytube-downloader?style=flat&labelColor=404040"><img src="https://img.shields.io/github/stars/thisal-d/pytube-downloader?style=flat&labelColor=ffffff" alt="stars"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/forks/thisal-d/pytube-downloader?style=flat&labelColor=404040"><img src="https://img.shields.io/github/forks/thisal-d/pytube-downloader?style=flat&labelColor=ffffff" alt="forks"></picture> | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark"><img src="https://skillicons.dev/icons?i=python&theme=light" alt="python" width="30px"></picture></div> |
+| ⚙️ [**tkchart**](https://github.com/thisal-d/tkchart/) | A line chart widget for standard desktop GUIs, built to visualize live data streams within an application. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/thisal-d/tkchart?style=flat&labelColor=404040"><img src="https://img.shields.io/github/stars/thisal-d/tkchart?style=flat&labelColor=ffffff" alt="stars"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/forks/thisal-d/tkchart?style=flat&labelColor=404040"><img src="https://img.shields.io/github/forks/thisal-d/tkchart?style=flat&labelColor=ffffff" alt="forks"></picture> | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark"><img src="https://skillicons.dev/icons?i=python&theme=light" alt="python" width="30px"></picture></div> |
+| ⚙️ [**ctkchart**](https://github.com/thisal-d/ctkchart/) | A modern line chart widget featuring automatic light and dark theme switching for a seamless look in contemporary desktop applications. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/thisal-d/ctkchart?style=flat&labelColor=404040"><img src="https://img.shields.io/github/stars/thisal-d/ctkchart?style=flat&labelColor=ffffff" alt="stars"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/forks/thisal-d/ctkchart?style=flat&labelColor=404040"><img src="https://img.shields.io/github/forks/thisal-d/ctkchart?style=flat&labelColor=ffffff" alt="forks"></picture> | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark"><img src="https://skillicons.dev/icons?i=python&theme=light" alt="python" width="30px"></picture></div> |
+| 📱 [**IP Wizard**](https://github.com/thisal-d/ip-wizard/) | A mobile utility to simplify network calculations. Instantly computes subnet masks and IP ranges for network administrators and students. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/thisal-d/ip-wizard?style=flat&labelColor=404040"><img src="https://img.shields.io/github/stars/thisal-d/ip-wizard?style=flat&labelColor=ffffff" alt="stars"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/forks/thisal-d/ip-wizard?style=flat&labelColor=404040"><img src="https://img.shields.io/github/forks/thisal-d/ip-wizard?style=flat&labelColor=ffffff" alt="forks"></picture> | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="java" width="30px"></picture></div> |
+| 🧠 [**AI Verse**](https://github.com/thisal-d/ai-verse/) | A centralized hub to discover, explore, and organize AI tools. Features search, filtering, and dynamic cards to navigate the AI landscape efficiently. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/thisal-d/ai-verse?style=flat&labelColor=404040"><img src="https://img.shields.io/github/stars/thisal-d/ai-verse?style=flat&labelColor=ffffff" alt="stars"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/forks/thisal-d/ai-verse?style=flat&labelColor=404040"><img src="https://img.shields.io/github/forks/thisal-d/ai-verse?style=flat&labelColor=ffffff" alt="forks"></picture> | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark"><img src="https://skillicons.dev/icons?i=react&theme=light" alt="react" width="30px"></picture></div> |
+| 🛠️ [**compylr**](https://github.com/thisal-d/compylr/) | A modern, powerful, and intuitive GUI for transforming Python scripts into standalone executables using Nuitka. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/thisal-d/compylr?style=flat&labelColor=404040"><img src="https://img.shields.io/github/stars/thisal-d/compylr?style=flat&labelColor=ffffff" alt="stars"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/forks/thisal-d/compylr?style=flat&labelColor=404040"><img src="https://img.shields.io/github/forks/thisal-d/compylr?style=flat&labelColor=ffffff" alt="forks"></picture> | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark"><img src="https://skillicons.dev/icons?i=python&theme=light" alt="python" width="30px"></picture></div> |
+| 🧪 [**elimination-search-cv**](https://github.com/thisal-d/elimination-search-cv/) | A scikit-learn compatible hyperparameter search that progressively eliminates low-scoring values: fewer fits, same best params. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/thisal-d/elimination-search-cv?style=flat&labelColor=404040"><img src="https://img.shields.io/github/stars/thisal-d/elimination-search-cv?style=flat&labelColor=ffffff" alt="stars"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/forks/thisal-d/elimination-search-cv?style=flat&labelColor=404040"><img src="https://img.shields.io/github/forks/thisal-d/elimination-search-cv?style=flat&labelColor=ffffff" alt="forks"></picture> | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark"><img src="https://skillicons.dev/icons?i=python&theme=light" alt="python" width="30px"></picture></div> |
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal-d&theme=github" width="49%" alt="stats">
+  </picture>
+  <picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisal-d&theme=github" width="49%" alt="most-commit-language">
+  </picture>
+
+  <picture>
+  <source width="98%" media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisal-d&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisal-d&theme=github" width="98%" alt="profile-details">
+  </picture>
+</div>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://thisal-dilmith.pages.dev/" title="Visit my Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat&logo=About.me&logoColor=white" alt="Visit my Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/thisal-dilmith" title="Connect on LinkedIn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="https://stackoverflow.com/users/17652621/thisal" title="View my Stack Overflow profile" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="View my Stack Overflow profile"/></a>
+  <a href="https://github.com/thisal-d?tab=repositories" title="Explore my GitHub repositories" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Explore my GitHub repositories"/></a>
+  <a href="https://pypi.org/user/Thisal_D/" title="View my PyPI Profile" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white" alt="View my PyPI Profile"/></a>
+  <a href="https://thisal-d.blogspot.com/" title="Read my blog" target="_blank"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Read my blog"/></a>
+  <a href="https://github.com/sponsors/thisal-d" title="Sponsor my work" target="_blank"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat&logo=github&logoColor=white" alt="Sponsor my work"/></a>
+</p>
+
+---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/thisal--dilmith.pages.dev-0a0e14?style=for-the-badge&logo=about.me&logoColor=15efe4)](https://thisal-dilmith.pages.dev/)
-[![Thisma Labs](https://img.shields.io/badge/Thisma%20Labs-0a0e14?style=for-the-badge&logoColor=15efe4&label=%E2%80%A2%E2%80%94%E2%97%8E)](https://github.com/thisma-labs)
-[![Sponsor](https://img.shields.io/badge/Sponsor%20my%20work-0a0e14?style=for-the-badge&logo=githubsponsors&logoColor=ea4aaa)](https://github.com/sponsors/thisal-d)
+```text
+break_it();
+fix_it();
+make_it_better();
+repeat();
+```
 
-<br/>
+<i>"Code is like art. Every line tells a story."</i>
+<br><br>
 
-*"Code is like art. Every line tells a story."*
+<a href="https://github.com/thisal-d?tab=repositories" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/✨_Explore%20my%20repos-181717?style=for-the-badge&logo=github&color=404040&logoColor=ffffff"><img src="https://img.shields.io/badge/✨_Explore%20my%20repos-181717?style=for-the-badge&logo=github&color=EEEEEE&logoColor=000000" alt="Explore my repos"></picture></a>
 
-<sub>Built with ❤️ in Sri Lanka by **Thisal Dilmith**</sub>
+<br>
+<sub>Built with ❤️ in Sri Lanka by <b>Thisal Dilmith</b></sub>
+
+<a href="https://github.com/sponsors/thisal-d" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor thisal-d"/>
+</a>
 
 </div>
