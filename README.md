@@ -76,7 +76,9 @@
 <div align="center">
 
 ![Skills dark](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite&theme=dark#gh-dark-mode-only)![Skills light](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite&theme=light#gh-light-mode-only)
+
 <br>
+
 ![Skills dark](https://skillicons.dev/icons?i=cpp,c,dart,js,mongodb,express,react,nodejs,stackoverflow&theme=dark#gh-dark-mode-only)![Skills light](https://skillicons.dev/icons?i=cpp,c,dart,js,mongodb,express,react,nodejs,stackoverflow&theme=light#gh-light-mode-only)
 
 <em>Just trying to be better every day...</em>
