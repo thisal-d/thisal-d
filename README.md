@@ -75,7 +75,6 @@
 
 <div align="center">
 
-
 [![Skills row 1 light](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite&theme=light)](https://github.com/thisal-d#gh-light-mode-only)
 [![Skills row 2 light](https://skillicons.dev/icons?i=cpp,c,dart,js,mongodb,express,react,nodejs,stackoverflow&theme=light)](https://github.com/thisal-d#gh-light-mode-only)
 
