@@ -75,13 +75,14 @@
 
 <div align="center">
 
-![Skills dark](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite&theme=dark#gh-dark-mode-only)
-![Skills light](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite&theme=light#gh-light-mode-only)
-<br>
 
-![Skills dark](https://skillicons.dev/icons?i=cpp,c,dart,js,mongodb,express,react,nodejs,stackoverflow&theme=dark#gh-dark-mode-only)
-![Skills light](https://skillicons.dev/icons?i=cpp,c,dart,js,mongodb,express,react,nodejs,stackoverflow&theme=light#gh-light-mode-only)
+[![Skills row 1 light](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite&theme=light)](https://github.com/thisal-d#gh-light-mode-only)
+[![Skills row 2 light](https://skillicons.dev/icons?i=cpp,c,dart,js,mongodb,express,react,nodejs,stackoverflow&theme=light)](https://github.com/thisal-d#gh-light-mode-only)
 
+[![Skills row 1 dark](https://skillicons.dev/icons?i=python,java,androidstudio,git,github,vscode,css,mysql,sqlite&theme=dark)](https://github.com/thisal-d#gh-dark-mode-only)
+[![Skills row 2 dark](https://skillicons.dev/icons?i=cpp,c,dart,js,mongodb,express,react,nodejs,stackoverflow&theme=dark)](https://github.com/thisal-d#gh-dark-mode-only)
+
+    
 <em>Just trying to be better every day...</em>
 
 </div>
