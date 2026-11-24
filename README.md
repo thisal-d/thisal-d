@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-dark.svg">
-  <img src="/assets/ascii-light.svg" alt="Thisal Dilmith, rendered as ASCII art" width="100%">
+  <img src="./assets/ascii-light.svg" alt="Thisal Dilmith, rendered as ASCII art" width="100%">
 </picture>
 
 </div>
@@ -11,30 +11,30 @@
 <summary><code>$ cat portrait.txt</code> &nbsp;(plain-text version, copy and paste anywhere)</summary>
 
 ```text
-.-[ thisal@thisma-labs: ~ ]----------------------------------------------------------------------.
+.-[ thisal@tyranox: ~ ]--------------------------------------------------------------------------.
 | $ ./render --me --verbose                                                                      |
 |                                                                                                |
 |                       .::....                                                                  |
 |                .:-+====..:.  :..====++-=-:                                                     |
 |              -++=:  .. .-  .:... .+=.-:--+-=-.                                                 |
 |           .+*=:.-.      .-==:.=+-:::=+-.=..=*+:                                                |
-|           =++=-==-++-:--==-:          :  - -++:+-       thisal@thisma-labs                     |
+|           =++=-==-++-:--==-:          :  - -++:+-       thisal@tyranox                         |
 |         .+---... .:..:+*: :::--          :.:. .+- :     ------------------------------------   |
 |        :+ ..  : .-=-+*+=:-:::-:-               .  -.    Name     Thisal Dilmith                |
 |     .::.: :.    .=*-...:...:                    ::.     Handle   thisal-d                      |
-|      ....   .=-.- .--:::-=+:          .         :.:     Role     Developer, Thisma Labs        |
+|      ....   .=-.- .--:::-=+:          .         :.:     Role     Developer, Tyranox            |
 |         :- .:+. -=  =*#*=:-:. -       :.       ...      From     Sri Lanka                     |
 |          .:..:--:  .=*##*++=+=** .:.   =.               Speaks   Python Dart Java C/C++ JS     |
 |       :        -*#++#******###*+**=-=- -      .:.       Lab      Flutter Rust mDNS TLS1.3      |
 |      .-      =@@@@@@@@@@%%@@@%@%***=+**-      ....:     Ships    pytube-downloader             |
 |   .*##%@#.  :@@@%#**+++-=++**@@@@##%#%*+:                        tkchart ctkchart compylr      |
-|  .@@@@@#%@- *@@%#*+-..         ::=*#%##=-:              Now      shipping Beside v0.1.0        |
-|  .#@@+--+@-.%%%@@@@%%*+--+-. :-+%%:                              (Thisma Labs flagship)        |
+|  .@@@@@#%@- *@@%#*+-..         ::=*#%##=-:              Now      shipping Closr                |
+|  .#@@+--+@-.%%%@@@@%%*+--+-. :-+%%:                              (Tyranox flagship, MS Store)  |
 |   .%@%@@#@.=%#%@@@@@@@@%%%@@@@@@@@:                     Loop     break_it(); fix_it();         |
 |     *@@#@*.+%%%%@@@@@@@@@@@@@@@@@@#==.                           make_it_better(); repeat();   |
 |      .*%*+-=*#%%%%@@@@@@@%%%@@@@@@@*#*=.                Vibe     code by day, bars by night    |
 |       .==--++#*#%%@@@@@@@@@+:..+%%+ **=                 Web      thisal-dilmith.pages.dev      |
-|       +%@..******%%%%@@@@@@@%+=    :*:                  Org      github.com/thisma-labs        |
+|       +%@..******%%%%@@@@@@@%+=    :*:                  Org      github.com/TyranoxHQ          |
 |   -   %%@+  +++*++*#%#.    .   ..  -:                   Ramp     .:-=+*#%@                     |
 |   .::*%%%%:   -*++*#*- .:--=+-.:                                                               |
 |  =  =+@%%%#-   +#%%@%%%%##+===+=:                                                              |
@@ -59,15 +59,17 @@
 ### 🚀 What I'm Up To
 
 ```text
-[building]     Thisma Labs : local-first, private software
-[flagship]     Beside      : private Wi-Fi file sharing, Windows <-> Android
+[building]     Tyranox     : local-first, private software
+[flagship]     Closr       : local-first P2P file, folder & text sharing (Microsoft Store)
 [maintaining]  pytube-downloader . tkchart . ctkchart
 [also]         compylr . elimination-search-cv . ai-verse . ip-wizard
 [status]       focusing
 ```
 
-- **[Thisma Labs](https://github.com/thisma-labs)**: my software lab, built around local-first tools with no accounts and no cloud in the middle.
-- **[Beside](https://github.com/thisma-labs/beside)** `•—◎`: Thisma Labs' first release (v0.1.0). Direct file, folder and text sharing between Windows and Android over your own Wi-Fi, with mutual TLS 1.3.
+- **[Tyranox](https://github.com/TyranoxHQ)**: my software company, built around local-first, private tools with no accounts and no cloud in the middle.
+- **[Closr](https://github.com/TyranoxHQ)** — flagship app by **[Tyranox](https://github.com/TyranoxHQ)**. Direct, peer-to-peer file, folder, and text sharing over your own Wi-Fi/LAN at full local speeds, with mDNS discovery, 8-digit SAS pairing, and mutual TLS 1.3 — no cloud, no accounts, no internet required.
+
+  <a href="https://apps.microsoft.com/detail/9N1ST35C7R0W?hl=en-us&gl=LK" title="Get Closr on the Microsoft Store" target="_blank"><img src="./assets/microsoft-store.jpg" alt="Microsoft Store" width="22" valign="middle">&nbsp; <b>Get Closr on the Microsoft Store</b></a>
 
 ---
 
@@ -129,6 +131,7 @@
   <a href="https://www.linkedin.com/in/thisal-dilmith" title="Connect on LinkedIn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/17652621/thisal" title="View my Stack Overflow profile" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="View my Stack Overflow profile"/></a>
   <a href="https://github.com/thisal-d?tab=repositories" title="Explore my GitHub repositories" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Explore my GitHub repositories"/></a>
+  <a href="https://github.com/TyranoxHQ" title="Visit Tyranox on GitHub" target="_blank"><img src="https://img.shields.io/badge/Tyranox-181717?style=flat&logo=github&logoColor=white" alt="Visit Tyranox on GitHub"/></a>
   <a href="https://pypi.org/user/Thisal_D/" title="View my PyPI Profile" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white" alt="View my PyPI Profile"/></a>
   <a href="https://thisal-d.blogspot.com/" title="Read my blog" target="_blank"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Read my blog"/></a>
   <a href="https://github.com/sponsors/thisal-d" title="Sponsor my work" target="_blank"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat&logo=github&logoColor=white" alt="Sponsor my work"/></a>
