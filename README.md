@@ -62,14 +62,14 @@
 [building]     Tyranox     : local-first, private software
 [flagship]     Closr       : local-first P2P file, folder & text sharing (Microsoft Store)
 [maintaining]  pytube-downloader . tkchart . ctkchart
-[also]         compylr . elimination-search-cv . ai-verse . ip-wizard
+[also]         compylr . elimination-search-cv . ai- . ip-wizard
 [status]       focusing
 ```
 
 - **[Tyranox](https://github.com/TyranoxHQ)**: my software company, built around local-first, private tools with no accounts and no cloud in the middle.
 - **[Closr](https://github.com/TyranoxHQ)** — flagship app by **[Tyranox](https://github.com/TyranoxHQ)**. Direct, peer-to-peer file, folder, and text sharing over your own Wi-Fi/LAN at full local speeds, with mDNS discovery, 8-digit SAS pairing, and mutual TLS 1.3 — no cloud, no accounts, no internet required.
 
-  <a href="https://apps.microsoft.com/detail/9N1ST35C7R0W?hl=en-us&gl=LK" title="Get Closr on the Microsoft Store" target="_blank"><img src="./assets/microsoft-store.jpg" alt="Microsoft Store" width="22" valign="middle">&nbsp; <b>Get Closr on the Microsoft Store</b></a>
+  <img src="./assets/microsoft-store.jpg" alt="Microsoft Store" width="22" valign="middle"> <a href="https://apps.microsoft.com/detail/9N1ST35C7R0W?hl=en-us&gl=LK" title="Get Closr on the Microsoft Store" target="_blank">&nbsp; <b>Get Closr on the Microsoft Store</b></a>
 
 ---
 
@@ -161,3 +161,4 @@ repeat();
 </a>
 
 </div>
+verse
